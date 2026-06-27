@@ -101,13 +101,13 @@
 
 > Three attorney-evaluated patents in **AI, indoor navigation, and intelligent automation**, recognized by the **US Patent Office** and **Indian Patent Office** — two among the top-rated submissions.
 
-### 🔗 [**View all patents → `iam-pawanyadav/patents`**](https://github.com/pawanjyadav13/patents)
+### 🔗 [**View all patents → `iam-pawanyadav/patents`**](https://github.com/iam-pawanyadav/patents)
 
 | # | Patent | Office | Rating |
 |---|---|---|---|
-| 1 | AI-based innovation (top-rated) | 🇺🇸 USPTO | ⭐⭐⭐⭐⭐ |
-| 2 | Intelligent automation (top-rated) | 🇺🇸 USPTO | ⭐⭐⭐⭐⭐ |
-| 3 | Indoor navigation system | 🇺🇸 USPTO & 🇮🇳 IPO | ⭐⭐⭐⭐ |
+| 1 | METHOD AND SYSTEM OF PROVIDING ASSISTANCE DURING AN OPERATION PERFORMED ON AN EQUIPMENT (top-rated) | 🇺🇸 USPTO | ⭐⭐⭐⭐⭐ |
+| 2 | METHOD AND SYSTEM FOR SECURING DELIVERY OF A PACKAGE (top-rated) | 🇺🇸 USPTO | ⭐⭐⭐⭐⭐ |
+| 3 | METHOD AND SYSTEM FOR PROVIDING RECOMMENDATIONS FOR INDOOR NAVIGATION | 🇺🇸 USPTO & 🇮🇳 IPO | ⭐⭐⭐⭐ |
 
 > 📂 The repo contains full patent documents, abstracts, claims, and architecture notes.
 
