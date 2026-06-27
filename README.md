@@ -101,7 +101,7 @@
 
 > Three attorney-evaluated patents in **AI, indoor navigation, and intelligent automation**, recognized by the **US Patent Office** and **Indian Patent Office** — two among the top-rated submissions.
 
-### 🔗 [**View all patents → `pawanjyadav13/patents`**](https://github.com/pawanjyadav13/patents)
+### 🔗 [**View all patents → `iam-pawanyadav/patents`**](https://github.com/pawanjyadav13/patents)
 
 | # | Patent | Office | Rating |
 |---|---|---|---|
