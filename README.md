@@ -143,16 +143,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pawanjyadav13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanjyadav13&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iam-pawanyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-pawanyadav&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanjyadav13&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-pawanyadav&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawanjyadav13&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-pawanyadav&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 ---
